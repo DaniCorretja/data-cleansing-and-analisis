@@ -12,7 +12,7 @@ La actividad ha sido realizada por:
 ## Ficheros del código fuente
 - **pdf/memoria.pdf:** Resumen de la memoria.
 - **src/Tipologia-PRAC2.ipynb:** Jupyter Notebook que contiene la memoria.
-- **html/Tipologia-PRAC2.html:** Exportación en HTML del Jupyer Notebook.
+- **html/Tipologia-PRAC2.html:** Exportación en HTML del Jupyter Notebook.
 - **csv/train.csv:** conjunto de datos de entrenamiento original.
 - **csv/test.csv:** conjunto de datos de test original.
 - **csv/gender_submission.csv:** clasificación del conjunto de datos de test original.
