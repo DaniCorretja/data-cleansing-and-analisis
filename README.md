@@ -8,6 +8,13 @@ La actividad ha sido realizada por:
 - [Daniel Corretja](https://github.com/DaniCorretja)
 - [Xavier Gimeno](https://github.com/XaviSGG)
 
+| Contribuciones | Firma |
+| --- | --- |
+| Investigación previa | DCA, XGG |
+| Redacción de las respuestas | DCA, XGG |
+| Desarrollo del código | DCA, XGG |
+
+
 ## Ficheros del código fuente
 - **src/Tipologia-PRAC2.ipynb:** Jupyter Notebook que contiene la memoria.
 - **csv/train.csv:** conjunto de datos de entrenamiento original.
