@@ -21,7 +21,6 @@ La actividad ha sido realizada por:
 - **csv/test.csv:** conjunto de datos de test original.
 - **csv/gender_submission.csv:** clasificación del conjunto de datos de test original.
 - **csv/titanic_preprocessed.csv:** conjunto de datos después de realizar las tareas de limpieza y preprocesamiento.
-- **pdf/memoria.pdf:** contiene el documento con la memoria de la práctica.
 
 
 ## Recursos
